@@ -1,3 +1,4 @@
 [submodule "People"]
 	path = People
 	url = https://github.com/PeterFWMaurer/People.git
+	branch = windows
